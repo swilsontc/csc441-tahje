@@ -3,7 +3,7 @@
 - **Major: Computer Science**
 - **Year: Senior/4th Year**
 - **What I want to build: Websites and backends** 
-## This semester I would like to learn how to build a website mainly
+## This semester I would mainly like to learn how to build a website 
 ## My setup
 - **Computer: Windows**
 - **GitHub username: swilsontc**
