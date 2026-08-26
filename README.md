@@ -2,7 +2,8 @@
 ## About me
 - **Major: Computer Science**
 - **Year: Senior/4th Year**
-- **What I want to build: Websites and backends** 
+- **What I want to build: Websites and backends**
+## What I'm hoping to learn this semester
 ## This semester I would mainly like to learn how to build a website 
 ## My setup
 - **Computer: Windows**
