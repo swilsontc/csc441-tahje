@@ -11,3 +11,4 @@
 - **Git installed:yes** 
 ## Notes to future me
 Things I got stuck on, so I don't get stuck again: Not sure yet but good luck
+ 
