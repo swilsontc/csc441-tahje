@@ -11,6 +11,10 @@
 - **Git installed:yes** 
 ## Notes to future me
 Things I got stuck on, so I don't get stuck again: Not sure yet but good luck
- 
-  
- 
+## Terminal commands I learned
+- **git clone
+- **git commit
+## My goals for this course
+- **learn how to make apps, websites and more
+- **increase my knowledge in computer science
+- **get a good grade
