@@ -1,0 +1,7 @@
+[user]
+	name = Tahje Wilson
+	email = wilsontc@lemoyne.edu
+[init]
+	defaultBranch = main
+[core]
+	editor = notepad

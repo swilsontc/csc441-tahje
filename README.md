@@ -23,5 +23,5 @@ Things I got stuck on, so I don't get stuck again: Not sure yet but good luck
 - [] IntelliJ IDEA Community Edition
 - [] Android Studio
 - [] VS Code
-=======
-- **get a good grade
+# Status
+Learning Git and getting good at it
