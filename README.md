@@ -24,4 +24,4 @@ Things I got stuck on, so I don't get stuck again: Not sure yet but good luck
 - [] Android Studio
 - [] VS Code
 ## Status
-Just getting started.
+Learning GIt and feeling good about it.
