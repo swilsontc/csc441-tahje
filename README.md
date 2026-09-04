@@ -18,3 +18,10 @@ Things I got stuck on, so I don't get stuck again: Not sure yet but good luck
 - **learn how to make apps, websites and more
 - **increase my knowledge in computer science
 - **get a good grade
+## Tools I have installed
+- [x] Git
+- [] IntelliJ IDEA Community Edition
+- [] Android Studio
+- [] VS Code
+=======
+- **get a good grade
