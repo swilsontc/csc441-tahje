@@ -24,4 +24,4 @@ Things I got stuck on, so I don't get stuck again: Not sure yet but good luck
 - [] Android Studio
 - [] VS Code
 ## Status
-Just getting started.
+Working through branches. Slightly confused but getting there.
